@@ -6,7 +6,7 @@
 
 ## 🎮 Live Demo  
 [**▶ Play Rummy Master**](https://rummy-master.netlify.app/)  
-*(Replace with your hosted build link — e.g., Itch.io, Netlify, or GitHub Pages)*
+
 
 ---
 
